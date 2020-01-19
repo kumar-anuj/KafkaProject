@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+/.idea/
+/KafkaProject.iml
 # Log file
 *.log
 

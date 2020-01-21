@@ -3,6 +3,7 @@
 
 /.idea/
 /KafkaProject.iml
+/target/
 # Log file
 *.log
 
